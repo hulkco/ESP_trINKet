@@ -3,7 +3,7 @@ ESP32 E-Ink Developement Board
 
 This design was an experiment using an E-Ink display. Another PCB revision is on the way that will hopefully allowing it to be powered from a battery or microUSB cable. Right now it will only work from USB. 
 
-The programmer board is located at:
+The programmer board is located at: https://github.com/mike-rankin/ESP32_Programmer
 
 
 Special thanks to:
