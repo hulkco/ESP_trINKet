@@ -12,4 +12,8 @@ and @drewler for re-writing the Waveshare library so it will work on the BuyDisp
 
 The code right now does a hardware test verifying the display, sensors and wifi are functional are functional. If you manage to create something of your own I would love to see it by reaching me at @mikerankin
 
+![display](https://user-images.githubusercontent.com/4991664/33353117-8969f55e-d482-11e7-8010-1b8fbf2f1f35.JPG)
 
+![board_2](https://user-images.githubusercontent.com/4991664/33353094-6a2e7606-d482-11e7-9fb7-a56746ce1dfd.JPG)
+
+![assembly](https://user-images.githubusercontent.com/4991664/33353107-7d090552-d482-11e7-82af-a5f182c3e1cd.JPG)
