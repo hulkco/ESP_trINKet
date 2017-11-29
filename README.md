@@ -5,6 +5,7 @@ This design was an experiment using an E-Ink display. Another PCB revision is on
 
 The programmer board is located at: https://github.com/mike-rankin/ESP32_Programmer
 
+The enclosure designed in Fusion360 is located here: https://www.thingiverse.com/thing:2675865
 
 Special thanks to:
 Drew at OSH Park for supplying the PCB @pdp7
